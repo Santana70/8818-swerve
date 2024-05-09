@@ -1,0 +1,24 @@
+
+CTRE Pheonix v5
+
+https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2024-latest.json 
+
+
+CTRE Pheonix v6
+
+https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json
+
+
+REV Robotics Lib  (should already have)
+
+https://software-metadata.revrobotics.com/REVLib-2024.json
+
+
+KauaiLabs navX
+
+https://dev.studica.com/releases/2024/NavX.json
+
+
+WPILib New Commands (should already have)
+
+https://raw.githubusercontent.com/wpilibsuite/allwpilib/main/wpilibNewCommands/WPILibNewCommands.json
